@@ -1,9 +1,7 @@
 # URL-Masker
 URL Masker (ex: https://m.youtube.comⳆwatchⳆv=@is.gd/NzY0MTEwNzI)
 
-# Masker
-
-Masker is a tool built in python to Mask Urls as various other urls such as Youtube, Tiktok, Google and more.
+URL-Masker is a tool built in python to Mask Urls as various other urls such as Youtube, Tiktok, Google and more.
 
 You need the requests library for it to work
 You can install it with:
@@ -90,14 +88,8 @@ Amazon
 
 You Can Install Masker With Just 1 Command:
 
-```pip install requests && git clone https://github.com/SamJ2104/Masker/ && cd Masker && clear && python3 Masker.py```
+```pip install requests && git clone https://github.com/Lunixizm/URL-Masker && cd Masker && clear && python Masker.py```
 
-# Other Installs
+## License
 
-<p align="left">
-  <a href="https://shell.cloud.google.com/?cloudshell_git_repo=https://github.com/SamJ2104/Masker.git&show=terminal" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
-</p>
-
-[Web](https://masker.samj.app)
-
-[Siri Shortcut](https://is.gd/MaskerShortcut)
+GNU General Public License v3.0
